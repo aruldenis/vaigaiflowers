@@ -1,5 +1,5 @@
 [
-  { "name": "Jasmine", "price": 100 },
-  { "name": "Rose", "price": 50 },
-  { "name": "Marigold", "price": 50 }
+  { "name": "Jasmine", "price": 200 },
+  { "name": "Rose", "price": 200 },
+  { "name": "Marigold", "price": 200 }
 ]
